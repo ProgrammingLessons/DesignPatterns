@@ -5,6 +5,7 @@ Abstract Factory Design Pattern it provides the production of more than one rela
 
 While there is only one interface belonging to a single product family in the factory design pattern, there are different interfaces for different product families in the abstract factory.
 
+![uml_diagram](https://user-images.githubusercontent.com/29948990/232478788-c66a5ed9-545b-4d15-bad8-e1457bea5508.png)
 
 
 As an example, we will apply the example made in the factory design pattern. There were Car, Bike and Rickshaw classes. These classes inherited from the Ivehicle interface. When we wanted to create a class instance from a member of the vehicle family, we were specifying which class to create as a parameter to the GetVehicle method from the VehicleFactory class. When this happens, there is a dependency on the factory side and undesirable situations occur in the code.
