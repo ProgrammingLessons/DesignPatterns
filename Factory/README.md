@@ -8,7 +8,7 @@ It falls under the category of Creational Patterns. The Factory Method design pa
 
 In the example, bike, car, rickshaw classes are created that implement the Vehicle interface. A factory class(VehicleFactory.cs) is created that will create these three classes. And here its object is declared to the factory for the requested class. If the desired class exists in the factory, a new object is created and returned. If the requested class does not exist, an error is thrown.
 
-Factory design pattern is advantageous in terms of usage. When the object is desired to be created, it will be created from a single center. However, if attention is paid to the GetVehicle method, if else is written for each class. It is undesirable for the software. The solution to this is fixed in the abstract factory design pattern.
+Factory design pattern is advantageous in terms of usage. When the object is desired to be created, it will be created from a single center. However, if attention is paid to the GetVehicle method, if else is written for each class. It is undesirable for the software. The solution to this is fixed in the [abstract factory design pattern](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/AbstractFactory "Click").
 
 
 * https://refactoring.guru/design-patterns/factory-method
