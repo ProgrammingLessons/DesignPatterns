@@ -1,0 +1,16 @@
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\DesignPatterns\FactoryExam1\bin\Debug\net5.0\FactoryExam1.exe
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\DesignPatterns\FactoryExam1\bin\Debug\net5.0\FactoryExam1.deps.json
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\DesignPatterns\FactoryExam1\bin\Debug\net5.0\FactoryExam1.runtimeconfig.json
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\DesignPatterns\FactoryExam1\bin\Debug\net5.0\FactoryExam1.runtimeconfig.dev.json
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\DesignPatterns\FactoryExam1\bin\Debug\net5.0\FactoryExam1.dll
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\DesignPatterns\FactoryExam1\bin\Debug\net5.0\FactoryExam1.pdb
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\DesignPatterns\FactoryExam1\obj\Debug\net5.0\FactoryExam1.csproj.AssemblyReference.cache
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\DesignPatterns\FactoryExam1\obj\Debug\net5.0\FactoryExam1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\DesignPatterns\FactoryExam1\obj\Debug\net5.0\FactoryExam1.AssemblyInfoInputs.cache
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\DesignPatterns\FactoryExam1\obj\Debug\net5.0\FactoryExam1.AssemblyInfo.cs
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\DesignPatterns\FactoryExam1\obj\Debug\net5.0\FactoryExam1.csproj.CoreCompileInputs.cache
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\DesignPatterns\FactoryExam1\obj\Debug\net5.0\FactoryExam1.dll
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\DesignPatterns\FactoryExam1\obj\Debug\net5.0\refint\FactoryExam1.dll
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\DesignPatterns\FactoryExam1\obj\Debug\net5.0\FactoryExam1.pdb
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\DesignPatterns\FactoryExam1\obj\Debug\net5.0\FactoryExam1.genruntimeconfig.cache
+C:\Users\iscan\Desktop\Buckets\Personal\W\Complete-Masterclass\DesignPatterns\FactoryExam1\obj\Debug\net5.0\ref\FactoryExam1.dll
