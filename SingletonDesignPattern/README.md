@@ -1,4 +1,4 @@
-# Factory Design Pattern
+# Singleton Design Pattern
 
 Singleton design pattern is in the category of creational design pattern.
 
