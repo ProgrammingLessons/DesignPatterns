@@ -2,10 +2,10 @@
 
 Composite is a structural design pattern that allows composing objects into a tree-like structure and work with the it as if it was a singular object.
 
-Composite became a pretty popular solution for the most problems that require building a tree structure. Composite’s great feature is the ability to run methods recursively over the whole tree structure and sum up the results.
+Composite became a pretty popular solution for the most problems that require building a tree structure. Compositeâ€™s great feature is the ability to run methods recursively over the whole tree structure and sum up the results.
 
 
-![Attribute](https://user-images.githubusercontent.com/29948990/232442988-6e5868b5-1808-407d-b540-19e4ed1541ae.jpg)
+![composite](https://user-images.githubusercontent.com/29948990/232745919-7098f3e7-c37b-42c8-819e-315e46d57722.png)
 
 
 In designs such as tree structures to which the Composite pattern will be applied, three different classes of responsibility should be designed, namely Component, Composite and Leaf.
