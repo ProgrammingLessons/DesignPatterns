@@ -11,3 +11,9 @@ Factory Design Pattern requires designing an interface for object creation and a
 Abstract Factory is a creational design pattern, which solves the problem of creating entire product families without specifying their concrete classes. Abstract Factory defines an interface for creating all distinct products but leaves the actual product creation to concrete factory classes. Each factory type corresponds to a certain product variety.
 
 [See Example](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/AbstractFactory "Go to Abstract Factory Design Pattern")
+<hr>
+
+## Singleton Design Pattern
+A singleton is used to ensure that there is only one instance of an object and that the same (and only one instance) is called everywhere in your code whenever you need that object.
+
+[See Example](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/AbstractFactory "Go to Abstract Factory Design Pattern")
