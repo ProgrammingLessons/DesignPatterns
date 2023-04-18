@@ -17,3 +17,9 @@ Abstract Factory is a creational design pattern, which solves the problem of cre
 A singleton is used to ensure that there is only one instance of an object and that the same (and only one instance) is called everywhere in your code whenever you need that object.
 
 [See Example](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/SingletonDesignPattern "Go to Singleton Design Pattern")
+<hr>
+
+## Composite Design Pattern
+Composite is a structural design pattern that allows composing objects into a tree-like structure and work with the it as if it was a singular object.
+
+[See Example](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/CompositeDesignPattern "Go to Composite Design Pattern")
