@@ -8,8 +8,10 @@ namespace SingletonDesignPattern.Case1
 {
     public sealed class Singleton
     {
+        // static Singleton variable is defined
         private static Singleton instance = null;
 
+        // The constructor method is created
         private Singleton()
         {
         }
@@ -18,8 +20,10 @@ namespace SingletonDesignPattern.Case1
         {
             get
             {
+                // Check for null when instance variable variable is called
                 if (instance == null)
                 {
+                    // If there is no instance, send a new instance
                     instance = new Singleton();
                 }
                 return instance;
