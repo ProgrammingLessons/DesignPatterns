@@ -16,4 +16,4 @@ Abstract Factory is a creational design pattern, which solves the problem of cre
 ## Singleton Design Pattern
 A singleton is used to ensure that there is only one instance of an object and that the same (and only one instance) is called everywhere in your code whenever you need that object.
 
-[See Example](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/AbstractFactory "Go to Abstract Factory Design Pattern")
+[See Example](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/SingletonDesignPattern "Go to Singleton Design Pattern")
