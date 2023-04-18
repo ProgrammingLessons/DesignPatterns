@@ -5,7 +5,8 @@ Singleton design pattern is in the category of creational design pattern.
 The purpose of this design pattern is to create only one instance of a class. In other words, when an instance is wanted to be created from any class, if there is no instance created before, a new one is created. If it has been created before, the existing instance is used.
 
 
-![Attribute](https://user-images.githubusercontent.com/29948990/232442988-6e5868b5-1808-407d-b540-19e4ed1541ae.jpg)
+![uml](https://user-images.githubusercontent.com/29948990/232697345-6fbbd1fd-ff82-444d-a425-da65044f06d1.png)
+
 
 Different methods can be used for the singleton design pattern. In this application, 6 different methods have been tried for singleton.
 
