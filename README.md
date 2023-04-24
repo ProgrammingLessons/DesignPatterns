@@ -31,3 +31,9 @@ Decorator pattern allows a user to add new functionality to an existing object w
 This pattern creates a decorator class which wraps the original class and provides additional functionality keeping class methods signature intact.
 
 [See Example](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/DecoratorDesignPattern "Go to Decorator Design Pattern")
+<hr>
+
+## Chain Of Responsibility Design Pattern
+Chain of Responsibility is a behavioral design pattern that allows you to pass requests along a chain of handlers. After receiving a request, each handler decides to process the request or forward it to the next handler in the chain.
+
+[See Example](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/ChainOfResponsibilityDesignPattern "Go to Chain Of Responsibility Design Pattern")
