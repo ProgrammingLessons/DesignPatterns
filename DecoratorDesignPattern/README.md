@@ -28,7 +28,7 @@ Thus, the open-closed principle is applied from solid principles.
 If we want to make a change from the runtime moment that I learned from here, or if there are possible parts to be changed later, it would be to use the decorator design pattern here.
 
 
-* https://refactoring.guru/design-patterns/factory-method
+* https://refactoring.guru/design-patterns/decorator/csharp/example
 * https://www.gencayyildiz.com/blog/c-decorator-design-patterndecorator-tasarim-deseni/
 * https://www.tutorialspoint.com/design_pattern/decorator_pattern.htm
 * https://medium.com/@veysel.gunes36/decorator-tasar%C4%B1m-deseni-nedir-what-is-decorator-design-pattern-73e0dbc3443d
