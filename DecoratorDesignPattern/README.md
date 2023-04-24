@@ -6,7 +6,8 @@ Using decorators you can wrap objects countless number of times since both targe
 
 Decorator can divide the design pattern into two parts, Decorator classes and Component classes. Component classes include the Decorator super class. So it is necessary to create a structure like this:
 
---Image
+![ss1](https://user-images.githubusercontent.com/29948990/234003702-b3fa174f-d359-4816-aa1d-84b621feff9e.png)
+
 
 The Decorator class derives from the Component class. At the same time, there is a HAS-A relationship between the Decorator class and the Component class. This means that inside the Decorator class, there is an instance variable of type Component (Composition structure).
 The Decorator class can be abstract or interface. It is necessary not to use concrete classes.
@@ -15,8 +16,11 @@ The object to which the properties will be added dynamically derives from the Co
 
 The ConcreteDecorator object adds properties to the ConcreteComponent object.
 
+UML diagram of sample application:
 
---Image2
+![ss2](https://user-images.githubusercontent.com/29948990/234003807-663fab13-9176-48c9-aa4e-cadafd940635.png)
+
+
 
 All operations are not performed in a class, but they are made to be managed in parts. 
 It also easily provides the innovations that may come later. 
