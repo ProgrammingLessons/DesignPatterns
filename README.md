@@ -23,3 +23,11 @@ A singleton is used to ensure that there is only one instance of an object and t
 Composite is a structural design pattern that allows composing objects into a tree-like structure and work with the it as if it was a singular object.
 
 [See Example](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/CompositeDesignPattern "Go to Composite Design Pattern")
+<hr>
+
+## Decorator Design Pattern
+Decorator pattern allows a user to add new functionality to an existing object without altering its structure. This type of design pattern comes under structural pattern as this pattern acts as a wrapper to existing class.
+
+This pattern creates a decorator class which wraps the original class and provides additional functionality keeping class methods signature intact.
+
+[See Example](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/DecoratorDesignPattern "Go to Decorator Design Pattern")
