@@ -37,3 +37,9 @@ This pattern creates a decorator class which wraps the original class and provid
 Chain of Responsibility is a behavioral design pattern that allows you to pass requests along a chain of handlers. After receiving a request, each handler decides to process the request or forward it to the next handler in the chain.
 
 [See Example](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/ChainOfResponsibilityDesignPattern "Go to Chain Of Responsibility Design Pattern")
+<hr>
+
+## Command Design Pattern
+Command is a behavioral design pattern that turns a request into a stand-alone object that contains all information about the request. This transformation lets you pass requests as a method arguments, delay or queue a request’s execution, and support undoable operations.
+
+[See Example](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/CommandDesignPattern "Go to Command Design Pattern")
