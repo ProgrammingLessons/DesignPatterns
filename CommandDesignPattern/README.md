@@ -1,6 +1,6 @@
 # Command Design Pattern
 
-Command is a behavioral design pattern that turns a request into a stand-alone object that contains all information about the request. This transformation lets you pass requests as a method arguments, delay or queue a request�s execution, and support undoable operations.
+Command is a behavioral design pattern that turns a request into a stand-alone object that contains all information about the request. This transformation lets you pass requests as a method arguments, delay or queue a request's execution, and support undoable operations.
 
 
 ![ss1](https://user-images.githubusercontent.com/29948990/234239176-32046800-ca30-42d4-9990-73757e35bf52.png)
