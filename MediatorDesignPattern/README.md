@@ -8,7 +8,7 @@ In addition, as the number of classes increases, the dependencies between them a
 The Mediator design pattern also serves to reduce dependencies between these classes and facilitate communication between them.
 
 
---Mediator UML
+![mediator_uml](https://user-images.githubusercontent.com/29948990/234710267-4101c9c7-cba8-4c59-8a12-90b03d95d074.png)
 
 The classes and objects participating in this pattern include:
 * Mediator  (IChatroomMediator)
@@ -20,20 +20,22 @@ The classes and objects participating in this pattern include:
 	* each Colleague class knows its Mediator object
 	* each colleague communicates with its mediator whenever it would have otherwise communicated with another colleague
 
+
 <hr>
 
 
 UML diagram of sample app:
 
--- uml diagram
+![Screenshot_2](https://user-images.githubusercontent.com/29948990/234710366-32ca6122-a283-48a0-b327-cbd73284cadd.png)
 
 In the sample application, if there was no Mediator design pattern in a chat system, users would send messages to each other while sending messages to each other. As shown in the sample picture.
 
--- example
+![not_mediator](https://user-images.githubusercontent.com/29948990/234711893-aafc8fcd-f786-4fc6-8a50-fd1bf87f0c79.png)
 
 Here, to solve this confusion, a mediator system is brought together and it is this system that manages the flow.
 
--- resolve
+![with_meditor](https://user-images.githubusercontent.com/29948990/234711931-ed39b601-fdca-475c-bce5-bb89cfa64fa2.png)
+
 
 All messages pass through this mediator and are forwarded to the relevant place. In this way, there is no object redundancy.
 
