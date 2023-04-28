@@ -49,3 +49,9 @@ Command is a behavioral design pattern that turns a request into a stand-alone o
 Mediator is a behavioral design pattern that lets you reduce chaotic dependencies between objects. The pattern restricts direct communications between the objects and forces them to collaborate only via a mediator object.
 
 [See Example](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/MediatorDesignPattern "Go to Mediator Design Pattern")
+<hr>
+
+## Strategy Design Pattern
+Strategy is a behavioral design pattern that turns a set of behaviors into objects and makes them interchangeable inside original context object.
+
+[See Example](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/StrategyDesignPattern "Go to Strategy Design Pattern")
