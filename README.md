@@ -55,3 +55,9 @@ Mediator is a behavioral design pattern that lets you reduce chaotic dependencie
 Strategy is a behavioral design pattern that turns a set of behaviors into objects and makes them interchangeable inside original context object.
 
 [See Example](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/StrategyDesignPattern "Go to Strategy Design Pattern")
+<hr>
+
+## Visitor Design Pattern
+Visitor is a behavioral design pattern that lets you separate algorithms from the objects on which they operate.
+
+[See Example](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/VisitorDesignPattern "Go to Visitor Design Pattern")
