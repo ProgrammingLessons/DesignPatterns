@@ -3,7 +3,8 @@
 The Visitor design pattern represents an operation to be performed on the elements of an object structure. This pattern lets you define a new operation without changing the classes of the elements on which it operates.
 
 
---UML
+![uml](https://user-images.githubusercontent.com/29948990/235612996-8423b078-f225-4cbc-aff6-c2f50a3861aa.png)
+
 
 The classes and objects participating in this pattern include:
 * Visitor
@@ -21,14 +22,16 @@ The classes and objects participating in this pattern include:
 
 <hr>
 
---Example UML
 
+![ProjectUML](https://user-images.githubusercontent.com/29948990/235613028-e4d1402c-bb8e-4c55-99ce-72834f940937.png)
 
 In the sample project here, features are added to different types of printers. Thanks to the visitor design, the desired feature is added to the relevant object.
 
 
 It is also evident in the usage rate on the Dofactory site.
-![use](https://user-images.githubusercontent.com/29948990/235091323-afa296c3-193c-433e-9a16-05fe656e8326.png)
+
+![Frequency](https://user-images.githubusercontent.com/29948990/235613056-c0dc4b6d-adb6-4699-a721-9662bd2c60a4.png)
+
 
 
 * https://dofactory.com/net/visitor-design-pattern
