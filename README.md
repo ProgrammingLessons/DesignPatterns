@@ -61,3 +61,9 @@ Strategy is a behavioral design pattern that turns a set of behaviors into objec
 Visitor is a behavioral design pattern that lets you separate algorithms from the objects on which they operate.
 
 [See Example](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/VisitorDesignPattern "Go to Visitor Design Pattern")
+<hr>
+
+## Proxy Design Pattern
+Proxy is a structural design pattern that lets you provide a substitute or placeholder for another object. A proxy controls access to the original object, allowing you to perform something either before or after the request gets through to the original object.
+
+[See Example](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/ProxyDesignPattern "Go to Proxy Design Pattern")
